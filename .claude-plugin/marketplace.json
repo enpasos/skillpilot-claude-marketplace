@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "skillpilot-coach-v1",
-      "displayName": "SkillPilot Coach v1",
+      "displayName": "SkillPilot Coach v1 – Katalogtest 2026-09-08",
       "source": "./plugins/skillpilot-coach-v1",
       "description": "Lehrplanorientierte Lernbegleitung mit dem SkillPilot Claude Coach",
       "strict": true
