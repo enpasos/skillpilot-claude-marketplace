@@ -6,10 +6,14 @@ package, but distributes them through a repository that Claude can update.
 This personal marketplace is published independently by SkillPilot. It is not
 reviewed, endorsed, curated, or verified by Anthropic.
 
-Version 1.1.1 completely replaces earlier versions. Do not retain or reinstall
-1.0.4 as a fallback. The 1.1.1 Marketplace update and its exact-client
-acceptance must be verified before SkillPilot presents this repository as an
-available installation route.
+Version **1.1.2** is the current Marketplace package. Its normal display name is
+**SkillPilot Coach v1**; it replaces the temporary catalog-test label. The six
+plugin files are byte-identical to the immutable SkillPilot 1.1.2 download.
+The packaged README and setup guide retain their preparation-time status;
+this repository README and changelog describe the subsequent publication.
+Exact-client installation and update acceptance remain pending. Repository
+publication does not establish reliable automatic updates in Claude or change
+the first-party installation guide.
 
 ## Install in Claude
 
@@ -30,7 +34,8 @@ MCP URL manually.
 Then return to <https://skillpilot.com/> and start each new learning session
 there through the established SkillPilot handoff.
 
-In the resulting chat, SkillPilot first reports every valid subject plan and
+In the resulting chat, SkillPilot first summarizes every valid subject plan in
+one compact line, mentioning overdue work only when present, and
 can resume the backend-selected goal automatically. An explicit request such as
 “switch to Physics” changes only the current learning subject; all valid plans
 continue to contribute to today's requirements.
@@ -48,8 +53,12 @@ Technical installation ID: `skillpilot-coach-v1@skillpilot-marketplace`.
 
 ## Updates
 
-Use **Update** on the SkillPilot Marketplace in Claude, then start a new Claude
-session. The plugin version is maintained only in
+Check the version offered in the plugin's **Contents** view and the version of
+your installed plugin. Both should read **1.1.2** before starting a new Claude
+session. A GitHub release alone does not prove that Claude has synchronized or
+updated your installation; the available synchronization controls vary by
+Claude surface. If the catalog is stale, contact <support@skillpilot.com>.
+The plugin version is maintained only in
 `plugins/skillpilot-coach-v1/.claude-plugin/plugin.json`.
 
 ## Trust and support
