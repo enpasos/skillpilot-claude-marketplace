@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.1.5 - 2026-09-12
+
+- Consolidate the Skill and replace the overlapping policy with conditional
+  Verified Recall and exam references, preserving teaching, assessment,
+  daily-plan and progression semantics.
+- Keep feedback in chat and retain the fourteen tools, OAuth, learner-session,
+  protected-answer and backend-owned state boundaries.
+- Add independently reviewed regression coverage for the simplified instruction
+  structure. Local checks do not replace real-client acceptance.
+- Focus the marketplace README on 1.1.5 and explain the automatic update
+  mechanism already observed in two Claude accounts, without claiming that
+  every account has received this version.
+- Preserve published artifacts and historical evidence; verify this version's
+  repository publication and client behavior separately.
+
 ## 1.1.4 - 2026-09-12
 
 - Keep coach assessment, feedback and success messages in the Claude chat;
@@ -20,8 +35,8 @@
 - Preserve all fourteen tools, session boundaries, existing plan dates and every
   previously published artifact byte. Archive the complete 1.1.2 release dossier.
 - Publish the exact prepared 1.1.3 package through the personal Git marketplace.
-  Keep guide, privacy and real-client evidence pending; publication does not
-  prove synchronization or update an existing Claude installation.
+  Keep guide, privacy and real-client evidence pending; publication alone does
+  not prove that a particular Claude account has synchronized its installation.
 
 ## 1.1.2 - 2026-09-09
 
