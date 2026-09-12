@@ -4,7 +4,7 @@
 coaching to Claude. Install it once through this Git marketplace to receive
 future plugin updates through Claude.
 
-### What's new in 1.1.5
+### In version 1.1.5
 
 - Shorter, focused coaching instructions without overlapping rules.
 - Exam and Verified Recall instructions loaded only when needed.
@@ -42,7 +42,8 @@ unrelated plugins or separately installed connectors.
 ## Updates
 
 Claude can deliver **automatic updates** to plugins installed from this
-marketplace. Automatic updates have already been observed in two Claude accounts.
+marketplace. During an earlier beta release, automatic updates were already
+observed in two Claude accounts.
 An upload-only installation is not the same as a marketplace installation.
 
 Update timing and available synchronization controls can vary by Claude client.
