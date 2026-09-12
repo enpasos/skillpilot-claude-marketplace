@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.3 - 2026-09-12
+
+- Credit newly completed due plan goals, including older due goals, toward a
+  stable daily quota for each subject using backend completion events.
+- Stop automatic continuation at the daily target. Make further work voluntary,
+  celebrate extra completions and keep backlog in explicitly requested details.
+- Preserve all fourteen tools, session boundaries, existing plan dates and every
+  previously published artifact byte. Archive the complete 1.1.2 release dossier.
+- Publish the exact prepared 1.1.3 package through the personal Git marketplace.
+  Keep guide, privacy and real-client evidence pending; publication does not
+  prove synchronization or update an existing Claude installation.
+
 ## 1.1.2 - 2026-09-09
 
 - Keep the daily overview to one line: total completed out of today's due
