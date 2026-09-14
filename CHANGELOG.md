@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.1.6 - 2026-09-14
+
+- Plans guide and prioritize; they never prevent explicitly requested learning.
+  Continue an active unmastered goal or let the backend select a reachable open
+  Personal Curriculum target beyond daily quotas, plan dates and empty backlog.
+- Honor server continuation capabilities and exact subject labels; preserve
+  prerequisites, automatic daily stopping and read-only status requests.
+- After the daily target, offer remaining backlog as a pressure-free catch-up
+  opportunity; without backlog, offer voluntary continuation or a pause.
+- Preserve the published 1.1.5 artifact and release evidence. Verify Marketplace
+  publication independently of the website download index; guide and real-client
+  acceptance remain separate, candidate-bound decisions.
+
 ## 1.1.5 - 2026-09-12
 
 - Consolidate the Skill and replace the overlapping policy with conditional
