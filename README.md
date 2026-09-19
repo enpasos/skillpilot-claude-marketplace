@@ -15,7 +15,7 @@ pending; previous published packages remain immutable history.
   target and any backlog or work ahead.
 - Plans guide and prioritize; they never prevent explicitly requested learning.
 - Continue reachable open curriculum goals beyond quotas, plan dates or backlog.
-- After a reached target, use remaining backlog as a pressure-free catch-up option.
+- After reaching the period target, use remaining backlog as a pressure-free catch-up option.
 - Exam and Verified Recall instructions loaded only when needed.
 - Your answers, assessments and feedback stay in the Claude conversation;
   SkillPilot receives only structured learning results.
