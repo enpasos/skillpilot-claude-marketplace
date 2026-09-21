@@ -76,6 +76,12 @@ For supported clients, setup and the security boundary, see the
 [plugin README](./plugins/skillpilot-coach-v1/README.md) and
 [setup guide](./plugins/skillpilot-coach-v1/SETUP.md).
 
+Those packaged documents retain their canonical pre-publication snapshot;
+their preparation-time release notes are not a live availability indicator.
+This Marketplace distributes **1.1.8**. The separate website download can still
+serve an earlier version until the corresponding backend rollout. Publication
+here does not prove that an installed Claude account has already updated.
+
 Technical installation ID: `skillpilot-coach-v1@skillpilot-marketplace`.
 
 ## Trust and support
